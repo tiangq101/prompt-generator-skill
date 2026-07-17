@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prompt Generator"
+  short_description: "将粗略需求转成结构化专业提示词"
+  default_prompt: "Use $prompt-generator to turn my rough requirement into a clear professional prompt."
